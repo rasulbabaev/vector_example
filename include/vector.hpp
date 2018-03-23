@@ -1,6 +1,6 @@
 #include <iostream>
 
-class vector_t
+class vector_t //ls
 {
 private:
 	int * elements_;
